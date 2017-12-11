@@ -15,3 +15,8 @@ There are 2 python scripts. One is to check that whether result is updated or no
 Put both scripts in same folder and if you want to put CheckResult script in startup then put a shortcut in startup folder.
 
 Other instructions will be commented in code directly.
+
+CheckResult.py currently doesnt support Diploma to degree students. BUT GetResult.py supports Diploma to Degree students.
+
+NOTE: I am not affiliated with any of above dependency libraries.
+In any queries. Contact me at darshpanchal1997@gmail.com
