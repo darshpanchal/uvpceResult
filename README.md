@@ -14,7 +14,9 @@ There are 2 python scripts. One is to check that whether result is updated or no
 
 Put both scripts in same folder and if you want to put CheckResult script in startup then put a shortcut in startup folder.
 
-Other instructions will be commented in code directly.
+Other instructions are commented in code itself.
+
+CheckResult.py checks for latest result. If available it will fetch result. Also CheckResult.py will check every 10 minutes so do not close the windows opened by it.
 
 CheckResult.py currently doesnt support Diploma to degree students. BUT GetResult.py supports Diploma to Degree students.
 
